@@ -1,0 +1,50 @@
+[
+    {
+      "id": "1",
+      "chefName": "Alice Johnson",
+      "chefPicture": "https://www.freepnglogos.com/images/chef-14488.html",
+      "yearsOfExperience": 10,
+      "numberOfRecipes": 50,
+      "likes": 2000
+    },
+    {
+      "id": "2",
+      "chefName": "Sarah Smith",
+      "chefPicture": "https://www.freepnglogos.com/images/chef-14457.html",
+      "yearsOfExperience": 8,
+      "numberOfRecipes": 30,
+      "likes": 1500
+    },
+    {
+      "id": "3",
+      "chefName": "Jennifer",
+      "chefPicture": "https://www.freepnglogos.com/images/chef-14499.html",
+      "yearsOfExperience": 5,
+      "numberOfRecipes": 20,
+      "likes": 1000
+    },
+    {
+        "id": "4",
+        "chefName": "Shane Watson",
+        "chefPicture": "https://www.freepnglogos.com/images/chef-14495.html",
+        "yearsOfExperience": 12,
+        "numberOfRecipes": 70,
+        "likes": 2500
+      },
+      {
+        "id": "5",
+        "chefName": "John Chen",
+        "chefPicture": "https://www.freepnglogos.com/images/chef-14481.html",
+        "yearsOfExperience": 9,
+        "numberOfRecipes": 40,
+        "likes": 1800
+      },
+      {
+        "id": "6",
+        "chefName": "Sophia Wang",
+        "chefPicture": "https://www.freepnglogos.com/images/chef-14544.html",
+        "yearsOfExperience": 6,
+        "numberOfRecipes": 25,
+        "likes": 1200
+      }
+  ]  
