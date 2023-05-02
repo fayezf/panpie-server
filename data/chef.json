@@ -1,50 +1,66 @@
 [
     {
-      "id": "1",
-      "chefName": "Alice Johnson",
-      "chefPicture": "https://www.freepnglogos.com/images/chef-14488.html",
-      "yearsOfExperience": 10,
-      "numberOfRecipes": 50,
-      "likes": 2000
+        "id": "1",
+        "chefName": "Kayi Alp",
+        "chefPicture": "https://img.freepik.com/premium-photo/male-chef-presenting-invisible-product_13339-276065.jpg?w=360",
+        "yearsOfExperience": 10,
+        "numberOfRecipes": 50,
+        "likes": 2000
     },
     {
-      "id": "2",
-      "chefName": "Sarah Smith",
-      "chefPicture": "https://www.freepnglogos.com/images/chef-14457.html",
-      "yearsOfExperience": 8,
-      "numberOfRecipes": 30,
-      "likes": 1500
+        "id": "2",
+        "chefName": "Bamsi berek",
+        "chefPicture": "https://img.freepik.com/free-psd/smiling-cook-with-roller_1154-530.jpg?w=360&t=st=1683055040~exp=1683055640~hmac=4b3f441a391d22e7be9cfbbbec6e060961d758999ea4cdd8638a0e9e37f88886",
+        "yearsOfExperience": 8,
+        "numberOfRecipes": 30,
+        "likes": 1500
     },
     {
-      "id": "3",
-      "chefName": "Jennifer",
-      "chefPicture": "https://www.freepnglogos.com/images/chef-14499.html",
-      "yearsOfExperience": 5,
-      "numberOfRecipes": 20,
-      "likes": 1000
+        "id": "3",
+        "chefName": "Bala Hatun",
+        "chefPicture": "https://img.freepik.com/premium-photo/portrait-female-chef-gesturing-ok-sign_13339-39606.jpg?w=360",
+        "yearsOfExperience": 5,
+        "numberOfRecipes": 20,
+        "likes": 1000
     },
     {
         "id": "4",
-        "chefName": "Shane Watson",
-        "chefPicture": "https://www.freepnglogos.com/images/chef-14495.html",
+        "chefName": "Dundar Gazi",
+        "chefPicture": "https://img.freepik.com/free-photo/chef-holding-rolling-pin_23-2148471883.jpg?w=360&t=st=1683053875~exp=1683054475~hmac=9d6313607cbf18f288e267f11f28c5a26f8320c2e9f170b74cb830231a67a747",
         "yearsOfExperience": 12,
         "numberOfRecipes": 70,
         "likes": 2500
-      },
-      {
+    },
+    {
         "id": "5",
-        "chefName": "John Chen",
-        "chefPicture": "https://www.freepnglogos.com/images/chef-14481.html",
+        "chefName": "Burak Ozcivit",
+        "chefPicture": "https://img.freepik.com/free-photo/lucky-chef-isolated-white-background_1368-3144.jpg?w=360&t=st=1683054079~exp=1683054679~hmac=ee29e0c880f4869c5ac69cea9658770d9e9e235283e823bea1afb66945ce9c10",
         "yearsOfExperience": 9,
         "numberOfRecipes": 40,
         "likes": 1800
-      },
-      {
+    },
+    {
         "id": "6",
-        "chefName": "Sophia Wang",
-        "chefPicture": "https://www.freepnglogos.com/images/chef-14544.html",
+        "chefName": "Czn Burak",
+        "chefPicture": "https://img.freepik.com/premium-photo/cooking-meat-park-barbecue-master-bearded-hipster-wear-apron-barbecue-roasting-grilling-food-man-hold-cooking-utensils-barbecue-tools-roasting-meat-outdoors-picnic-barbecue_474717-30357.jpg?w=360",
         "yearsOfExperience": 6,
         "numberOfRecipes": 25,
         "likes": 1200
-      }
-  ]  
+    },
+    {
+        "id": "7",
+        "chefName": "Malhun Hatun",
+        "chefPicture": "https://img.freepik.com/premium-photo/chef-blowing-kiss_13339-58629.jpg?w=360",
+        "yearsOfExperience": 15,
+        "numberOfRecipes": 80,
+        "likes": 3000
+    },
+    {
+        "id": "8",
+        "chefName": "Osman Bey",
+        "chefPicture": "https://img.freepik.com/premium-photo/young-chef-with-chalkboard_87414-2891.jpg?w=360",
+        "yearsOfExperience": 7,
+        "numberOfRecipes": 35,
+        "likes": 1600
+    }
+]
