@@ -7,11 +7,11 @@
         "numberOfRecipes": 50,
         "likes": 2000,
         "ingredients": [
-            "1 pound beef biscuit",
-            "3 cups of water",
-            "1 onion, chopped",
-            "1/2 cup soy sauce",
-            "1/4 cup brown sugar"
+            "(1) 1 pound beef biscuit, ",
+            "(2) 3 cups of water, ",
+            "(3) 1 onion, chopped, ",
+            "(4) 1/2 cup soy sauce, ",
+            "(5) 1/4 cup brown sugar."
         ]
     },
     {
@@ -22,11 +22,11 @@
         "numberOfRecipes": 30,
         "likes": 1500,
         "ingredients": [
-            "2 piece bread",
-            "2 piece egg",
-            "1 onion, chopped",
-            "1/2 cup soy sauce",
-            "1/4 cup brown sugar"
+            "(1) 2 piece bread, ",
+            "(2) 2 piece egg, ",
+            "(3) 1 onion, chopped, ",
+            "(4) 1/2 cup soy sauce, ",
+            "(5) 1/4 cup brown sugar."
         ]
     },
     {
@@ -37,11 +37,11 @@
         "numberOfRecipes": 20,
         "likes": 1000,
         "ingredients": [
-            "1 pound mutton",
-            "4 cups of water",
-            "1 onion, chopped",
-            "1/2 cup soy sauce",
-            "1/2 pound rice"
+            "(1) 1 pound mutton, ",
+            "(2) 4 cups of water, ",
+            "(3) 1 onion, chopped, ",
+            "(4) 1/2 cup soy sauce, ",
+            "(5) 1/2 pound rice."
         ]
     },
     {
@@ -52,11 +52,11 @@
         "numberOfRecipes": 70,
         "likes": 2500,
         "ingredients": [
-            "1 pound beef biscuit",
-            "3 cups of water",
-            "1 onion, chopped",
-            "1/2 cup soy sauce",
-            "1/4 cup brown sugar"
+            "(1) 1 pound beef biscuit, ",
+            "(2) 3 cups of water, ",
+            "(3) 1 onion, chopped, ",
+            "(4) 1/2 cup soy sauce, ",
+            "(5) 1/4 cup brown sugar."
         ]
     },
     {
@@ -67,11 +67,11 @@
         "numberOfRecipes": 40,
         "likes": 1800,
         "ingredients": [
-            "1 pound beef pasta",
-            "3 cups of water",
-            "1 onion, chopped",
-            "1/2 cup soy sauce",
-            "1/4 cup brown sugar"
+            "(1) 1 pound beef pasta, ",
+            "(2) 3 cups of water, ",
+            "(3) 1 onion, chopped, ",
+            "(4) 1/2 cup soy sauce, ",
+            "(5) 1/4 cup brown sugar."
         ]
     },
     {
@@ -82,11 +82,11 @@
         "numberOfRecipes": 25,
         "likes": 1200,
         "ingredients": [
-            "1 pound beef biscuit",
-            "3 cups of water",
-            "1 onion, chopped",
-            "1/2 cup soy sauce",
-            "1/4 cup brown sugar"
+            "(1) 1 pound beef biscuit, ",
+            "(2) 3 cups of water, ",
+            "(3) 1 onion, chopped, ",
+            "(4) 1/2 cup soy sauce, ",
+            "(5) 1/4 cup brown sugar."
         ]
     },
     {
@@ -97,11 +97,11 @@
         "numberOfRecipes": 80,
         "likes": 3000,
         "ingredients": [
-            "1 pound beef biscuit",
-            "3 cups of water",
-            "1 onion, chopped",
-            "1/2 cup soy sauce",
-            "1/4 cup brown sugar"
+            "(1) 1 pound beef biscuit, ",
+            "(2) 3 cups of water, ",
+            "(3) 1 onion, chopped, ",
+            "(4) 1/2 cup soy sauce, ",
+            "(5) 1/4 cup brown sugar."
         ]
     },
     {
@@ -112,11 +112,11 @@
         "numberOfRecipes": 35,
         "likes": 1600,
         "ingredients": [
-            "1 pound beef biscuit",
-            "3 cups of water",
-            "1 onion, chopped",
-            "1/2 cup soy sauce",
-            "1/4 cup brown sugar"
+            "(1) 1 pound beef biscuit, ",
+            "(2) 3 cups of water, ",
+            "(3) 1 onion, chopped, ",
+            "(4) 1/2 cup soy sauce, ",
+            "(5) 1/4 cup brown sugar."
         ]
     }
 ]
