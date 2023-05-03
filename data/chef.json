@@ -2,65 +2,121 @@
     {
         "id": "1",
         "chefName": "Kayi Alp",
-        "chefPicture": "https://img.freepik.com/premium-photo/male-chef-presenting-invisible-product_13339-276065.jpg?w=360",
+        "chefPicture": "https://img.freepik.com/free-photo/happy-young-cook-uniform-holding-salad_171337-5343.jpg?w=740&t=st=1683088462~exp=1683089062~hmac=353e4394cbf60641cc4e1809162bbd954e8d22d56fdc47e961460ef0692e5640",
         "yearsOfExperience": 10,
         "numberOfRecipes": 50,
-        "likes": 2000
+        "likes": 2000,
+        "ingredients": [
+            "1 pound beef biscuit",
+            "3 cups of water",
+            "1 onion, chopped",
+            "1/2 cup soy sauce",
+            "1/4 cup brown sugar"
+        ]
     },
     {
         "id": "2",
         "chefName": "Bamsi berek",
-        "chefPicture": "https://img.freepik.com/free-psd/smiling-cook-with-roller_1154-530.jpg?w=360&t=st=1683055040~exp=1683055640~hmac=4b3f441a391d22e7be9cfbbbec6e060961d758999ea4cdd8638a0e9e37f88886",
+        "chefPicture": "https://img.freepik.com/premium-photo/concentrated-male-chef-garnishing-food-kitchen_1134-1508.jpg?w=740",
         "yearsOfExperience": 8,
         "numberOfRecipes": 30,
-        "likes": 1500
+        "likes": 1500,
+        "ingredients": [
+            "2 piece bread",
+            "2 piece egg",
+            "1 onion, chopped",
+            "1/2 cup soy sauce",
+            "1/4 cup brown sugar"
+        ]
     },
     {
         "id": "3",
-        "chefName": "Bala Hatun",
-        "chefPicture": "https://img.freepik.com/premium-photo/portrait-female-chef-gesturing-ok-sign_13339-39606.jpg?w=360",
+        "chefName": "Ertugrul Gazi",
+        "chefPicture": "https://img.freepik.com/free-photo/portrait-happy-male-chef-dressed-uniform_171337-5354.jpg?w=740&t=st=1683088565~exp=1683089165~hmac=1bffd4ef4d20702912efdf459436990ae7b41c0690edfea1bdbb2b71d948e0a9",
         "yearsOfExperience": 5,
         "numberOfRecipes": 20,
-        "likes": 1000
+        "likes": 1000,
+        "ingredients": [
+            "1 pound mutton",
+            "4 cups of water",
+            "1 onion, chopped",
+            "1/2 cup soy sauce",
+            "1/2 pound rice"
+        ]
     },
     {
         "id": "4",
         "chefName": "Dundar Gazi",
-        "chefPicture": "https://img.freepik.com/free-photo/chef-holding-rolling-pin_23-2148471883.jpg?w=360&t=st=1683053875~exp=1683054475~hmac=9d6313607cbf18f288e267f11f28c5a26f8320c2e9f170b74cb830231a67a747",
+        "chefPicture": "https://img.freepik.com/free-photo/shot-professional-old-chef-dressed-uniform-holding-kitchen-spatula-tongs_613910-17564.jpg?w=740&t=st=1683088625~exp=1683089225~hmac=4a65962b64e0bdca44800eb7a717501f6c8825d3957ee325fd760422b837f096",
         "yearsOfExperience": 12,
         "numberOfRecipes": 70,
-        "likes": 2500
+        "likes": 2500,
+        "ingredients": [
+            "1 pound beef biscuit",
+            "3 cups of water",
+            "1 onion, chopped",
+            "1/2 cup soy sauce",
+            "1/4 cup brown sugar"
+        ]
     },
     {
         "id": "5",
         "chefName": "Burak Ozcivit",
-        "chefPicture": "https://img.freepik.com/free-photo/lucky-chef-isolated-white-background_1368-3144.jpg?w=360&t=st=1683054079~exp=1683054679~hmac=ee29e0c880f4869c5ac69cea9658770d9e9e235283e823bea1afb66945ce9c10",
+        "chefPicture": "https://img.freepik.com/free-photo/professional-male-chef-cook-white-uniform-cook-hat-pointing-sidewith-index-finger-looking-confident-standing-white-background_141793-20622.jpg?w=740&t=st=1683088717~exp=1683089317~hmac=157a8d6bd19a38c7408fff82add98676520fbe9be50babfa9e7e913f8c8a7477",
         "yearsOfExperience": 9,
         "numberOfRecipes": 40,
-        "likes": 1800
+        "likes": 1800,
+        "ingredients": [
+            "1 pound beef pasta",
+            "3 cups of water",
+            "1 onion, chopped",
+            "1/2 cup soy sauce",
+            "1/4 cup brown sugar"
+        ]
     },
     {
         "id": "6",
-        "chefName": "Czn Burak",
-        "chefPicture": "https://img.freepik.com/premium-photo/cooking-meat-park-barbecue-master-bearded-hipster-wear-apron-barbecue-roasting-grilling-food-man-hold-cooking-utensils-barbecue-tools-roasting-meat-outdoors-picnic-barbecue_474717-30357.jpg?w=360",
+        "chefName": "Malhun Hatun",
+        "chefPicture": "https://img.freepik.com/premium-photo/portrait-young-woman-chef-background_488220-23689.jpg?w=740",
         "yearsOfExperience": 6,
         "numberOfRecipes": 25,
-        "likes": 1200
+        "likes": 1200,
+        "ingredients": [
+            "1 pound beef biscuit",
+            "3 cups of water",
+            "1 onion, chopped",
+            "1/2 cup soy sauce",
+            "1/4 cup brown sugar"
+        ]
     },
     {
         "id": "7",
-        "chefName": "Malhun Hatun",
-        "chefPicture": "https://img.freepik.com/premium-photo/chef-blowing-kiss_13339-58629.jpg?w=360",
+        "chefName": "Czn Burak",
+        "chefPicture": "https://img.freepik.com/free-photo/young-bearded-man-his-work-place-cooking-vegetables_496169-93.jpg?w=740&t=st=1683088863~exp=1683089463~hmac=0d4722d058655f91598c9f875f94b57c4cb594da38f29255e2306e42a3cf97af",
         "yearsOfExperience": 15,
         "numberOfRecipes": 80,
-        "likes": 3000
+        "likes": 3000,
+        "ingredients": [
+            "1 pound beef biscuit",
+            "3 cups of water",
+            "1 onion, chopped",
+            "1/2 cup soy sauce",
+            "1/4 cup brown sugar"
+        ]
     },
     {
         "id": "8",
-        "chefName": "Osman Bey",
-        "chefPicture": "https://img.freepik.com/premium-photo/young-chef-with-chalkboard_87414-2891.jpg?w=360",
+        "chefName": "Salt Bey",
+        "chefPicture": "https://img.freepik.com/free-photo/male-chef-uniform-hat-apron-adding-spice-into-food-kitchen_176474-9019.jpg?w=740&t=st=1683088948~exp=1683089548~hmac=b0f4875300b1440b8fef42f5d078f9d8061316b82321eb19dee524d73a10a0e7",
         "yearsOfExperience": 7,
         "numberOfRecipes": 35,
-        "likes": 1600
+        "likes": 1600,
+        "ingredients": [
+            "1 pound beef biscuit",
+            "3 cups of water",
+            "1 onion, chopped",
+            "1/2 cup soy sauce",
+            "1/4 cup brown sugar"
+        ]
     }
 ]
