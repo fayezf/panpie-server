@@ -2,121 +2,105 @@
     {
         "id": "1",
         "chefName": "Kayi Alp",
+        "description": "Kayi Alp is a Turkish chef, author, and television personality. She has over 20 years of experience in the culinary industry and is known for her indulgent and comforting cooking style. She has hosted several cooking shows such as Kayi Bites and authored several cookbooks.",
         "chefPicture": "https://img.freepik.com/free-photo/happy-young-cook-uniform-holding-salad_171337-5343.jpg?w=740&t=st=1683088462~exp=1683089062~hmac=353e4394cbf60641cc4e1809162bbd954e8d22d56fdc47e961460ef0692e5640",
         "yearsOfExperience": 10,
         "numberOfRecipes": 50,
-        "likes": 2000,
-        "ingredients": [
-            "(1) 1 pound beef biscuit, ",
-            "(2) 3 cups of water, ",
-            "(3) 1 onion, chopped, ",
-            "(4) 1/2 cup soy sauce, ",
-            "(5) 1/4 cup brown sugar."
-        ]
+        "recipe_img": "https://www.licious.in/blog/wp-content/uploads/2021/06/Shutterstock_1585483462.jpg",
+        "name":"Healthy food dishes" ,
+        "method_of_cooking": "1. Fry prawns in oil until cooked. 2. In a separate pan, mix coconut milk, ginger paste, garlic paste, red chili powder, turmeric powder, and salt. 3. Add prawns to the pan and simmer for 5 minutes. Serve hot with rice.",
+        "ratings": 4.3,
+        "likes": 2000
     },
     {
         "id": "2",
         "chefName": "Bamsi berek",
+        "description": "Bamsi berek is a Turkish chef, author, and television personality. She has over 20 years of experience in the culinary industry and is known for her indulgent and comforting cooking style. She has hosted several cooking shows such as Bamsi Bites and authored several cookbooks.",
         "chefPicture": "https://img.freepik.com/premium-photo/concentrated-male-chef-garnishing-food-kitchen_1134-1508.jpg?w=740",
         "yearsOfExperience": 8,
         "numberOfRecipes": 30,
-        "likes": 1500,
-        "ingredients": [
-            "(1) 2 piece bread, ",
-            "(2) 2 piece egg, ",
-            "(3) 1 onion, chopped, ",
-            "(4) 1/2 cup soy sauce, ",
-            "(5) 1/4 cup brown sugar."
-        ]
+        "recipe_img": "https://pikturenama.com/wp-content/uploads/2019/10/with-logo-Bhuni-Khichuri-4.jpg",
+        "name":"Roasted Rice" ,
+        "method_of_cooking": "1. Fry prawns in oil until cooked. 2. In a separate pan, mix coconut milk, ginger paste, garlic paste, red chili powder, turmeric powder, and salt. 3. Add prawns to the pan and simmer for 5 minutes. Serve hot with rice.",
+        "ratings": 4.5,
+        "likes": 1500
     },
     {
         "id": "3",
         "chefName": "Ertugrul Gazi",
+        "description": "Ertugrul Gazi is a Turkish chef, author, and television personality. She has over 20 years of experience in the culinary industry and is known for her indulgent and comforting cooking style. She has hosted several cooking shows such as Ertugrul Bites and authored several cookbooks.",
         "chefPicture": "https://img.freepik.com/free-photo/portrait-happy-male-chef-dressed-uniform_171337-5354.jpg?w=740&t=st=1683088565~exp=1683089165~hmac=1bffd4ef4d20702912efdf459436990ae7b41c0690edfea1bdbb2b71d948e0a9",
         "yearsOfExperience": 5,
         "numberOfRecipes": 20,
-        "likes": 1000,
-        "ingredients": [
-            "(1) 1 pound mutton, ",
-            "(2) 4 cups of water, ",
-            "(3) 1 onion, chopped, ",
-            "(4) 1/2 cup soy sauce, ",
-            "(5) 1/2 pound rice."
-        ]
+        "recipe_img": "https://lh6.ggpht.com/-luvg-6ZTOU8/Tg-n816jpbI/AAAAAAAADzs/VXbMOT43v_o/SPI_1434_thumb%25255B1%25255D.jpg?imgmax=800",
+        "name":"Hilsa in autumn" ,
+        "method_of_cooking": "1. Fry prawns in oil until cooked. 2. In a separate pan, mix coconut milk, ginger paste, garlic paste, red chili powder, turmeric powder, and salt. 3. Add prawns to the pan and simmer for 5 minutes. Serve hot with rice.",
+        "ratings": 4.2,
+        "likes": 1000
     },
     {
         "id": "4",
         "chefName": "Dundar Gazi",
+        "description": "Dundar Gazi is a Turkish chef, author, and television personality. She has over 20 years of experience in the culinary industry and is known for her indulgent and comforting cooking style. She has hosted several cooking shows such as Dundar Bites and authored several cookbooks.",
         "chefPicture": "https://img.freepik.com/free-photo/shot-professional-old-chef-dressed-uniform-holding-kitchen-spatula-tongs_613910-17564.jpg?w=740&t=st=1683088625~exp=1683089225~hmac=4a65962b64e0bdca44800eb7a717501f6c8825d3957ee325fd760422b837f096",
         "yearsOfExperience": 12,
         "numberOfRecipes": 70,
-        "likes": 2500,
-        "ingredients": [
-            "(1) 1 pound beef biscuit, ",
-            "(2) 3 cups of water, ",
-            "(3) 1 onion, chopped, ",
-            "(4) 1/2 cup soy sauce, ",
-            "(5) 1/4 cup brown sugar."
-        ]
+        "recipe_img": "https://pikturenama.com/wp-content/uploads/2019/10/with-logo-Bhuni-Khichuri-4.jpg",
+        "name":"Roasted Rice" ,
+        "method_of_cooking": "1. Fry prawns in oil until cooked. 2. In a separate pan, mix coconut milk, ginger paste, garlic paste, red chili powder, turmeric powder, and salt. 3. Add prawns to the pan and simmer for 5 minutes. Serve hot with rice.",
+        "ratings": 3.5,
+        "likes": 2500
     },
     {
         "id": "5",
         "chefName": "Burak Ozcivit",
+        "description": "Burak Ozcivit is a Turkish chef, author, and television personality. She has over 20 years of experience in the culinary industry and is known for her indulgent and comforting cooking style. She has hosted several cooking shows such as Burak Bites and authored several cookbooks.",
         "chefPicture": "https://img.freepik.com/free-photo/professional-male-chef-cook-white-uniform-cook-hat-pointing-sidewith-index-finger-looking-confident-standing-white-background_141793-20622.jpg?w=740&t=st=1683088717~exp=1683089317~hmac=157a8d6bd19a38c7408fff82add98676520fbe9be50babfa9e7e913f8c8a7477",
         "yearsOfExperience": 9,
         "numberOfRecipes": 40,
-        "likes": 1800,
-        "ingredients": [
-            "(1) 1 pound beef pasta, ",
-            "(2) 3 cups of water, ",
-            "(3) 1 onion, chopped, ",
-            "(4) 1/2 cup soy sauce, ",
-            "(5) 1/4 cup brown sugar."
-        ]
+        "recipe_img": "https://lh6.ggpht.com/-luvg-6ZTOU8/Tg-n816jpbI/AAAAAAAADzs/VXbMOT43v_o/SPI_1434_thumb%25255B1%25255D.jpg?imgmax=800",
+        "name":"Hilsa in autumn" ,
+        "method_of_cooking": "1. Fry prawns in oil until cooked. 2. In a separate pan, mix coconut milk, ginger paste, garlic paste, red chili powder, turmeric powder, and salt. 3. Add prawns to the pan and simmer for 5 minutes. Serve hot with rice.",
+        "ratings": 4.3,
+        "likes": 1800
     },
     {
         "id": "6",
         "chefName": "Malhun Hatun",
+        "description": "Malhun Hatun is a Turkish chef, author, and television personality. She has over 20 years of experience in the culinary industry and is known for her indulgent and comforting cooking style. She has hosted several cooking shows such as Malhun Bites and authored several cookbooks.",
         "chefPicture": "https://img.freepik.com/premium-photo/portrait-young-woman-chef-background_488220-23689.jpg?w=740",
         "yearsOfExperience": 6,
         "numberOfRecipes": 25,
-        "likes": 1200,
-        "ingredients": [
-            "(1) 1 pound beef biscuit, ",
-            "(2) 3 cups of water, ",
-            "(3) 1 onion, chopped, ",
-            "(4) 1/2 cup soy sauce, ",
-            "(5) 1/4 cup brown sugar."
-        ]
+        "recipe_img": "https://www.licious.in/blog/wp-content/uploads/2021/06/Shutterstock_1585483462.jpg",
+        "name":"Healthy food dishes" ,
+        "method_of_cooking": "1. Fry prawns in oil until cooked. 2. In a separate pan, mix coconut milk, ginger paste, garlic paste, red chili powder, turmeric powder, and salt. 3. Add prawns to the pan and simmer for 5 minutes. Serve hot with rice.",
+        "ratings": 4.6,
+        "likes": 1200
     },
     {
         "id": "7",
         "chefName": "Czn Burak",
+        "description": "Czn Burak is a Turkish chef, author, and television personality. She has over 20 years of experience in the culinary industry and is known for her indulgent and comforting cooking style. She has hosted several cooking shows such as Burak Bites and authored several cookbooks.",
         "chefPicture": "https://img.freepik.com/free-photo/young-bearded-man-his-work-place-cooking-vegetables_496169-93.jpg?w=740&t=st=1683088863~exp=1683089463~hmac=0d4722d058655f91598c9f875f94b57c4cb594da38f29255e2306e42a3cf97af",
         "yearsOfExperience": 15,
         "numberOfRecipes": 80,
-        "likes": 3000,
-        "ingredients": [
-            "(1) 1 pound beef biscuit, ",
-            "(2) 3 cups of water, ",
-            "(3) 1 onion, chopped, ",
-            "(4) 1/2 cup soy sauce, ",
-            "(5) 1/4 cup brown sugar."
-        ]
+        "recipe_img": "https://img.freepik.com/free-photo/homemade-hamburger-burger-with-fresh-vegetables-cheese-lettuce-mayonnaise-served-french-fries-pieces-brown-paper-black-stone-table-concept-fast-food-junk-food_1150-41842.jpg?w=740&t=st=1683127607~exp=1683128207~hmac=67a913ed2c8d6bc740d5d2219305691c4ac0d211bfffbb453faf10219e8b5237",
+        "name": "Burger with fresh vegetables and cheese lettuce",
+        "method_of_cooking": "1. Fry prawns in oil until cooked. 2. In a separate pan, mix coconut milk, ginger paste, garlic paste, red chili powder, turmeric powder, and salt. 3. Add prawns to the pan and simmer for 5 minutes. Serve hot with rice.",
+        "ratings": 3.3,
+        "likes": 3000
     },
     {
         "id": "8",
         "chefName": "Salt Bey",
+        "description": "Salt Bey is a Turkish chef, author, and television personality. She has over 20 years of experience in the culinary industry and is known for her indulgent and comforting cooking style. She has hosted several cooking shows such as Salt Bey Bites and authored several cookbooks.",
         "chefPicture": "https://img.freepik.com/free-photo/male-chef-uniform-hat-apron-adding-spice-into-food-kitchen_176474-9019.jpg?w=740&t=st=1683088948~exp=1683089548~hmac=b0f4875300b1440b8fef42f5d078f9d8061316b82321eb19dee524d73a10a0e7",
         "yearsOfExperience": 7,
         "numberOfRecipes": 35,
-        "likes": 1600,
-        "ingredients": [
-            "(1) 1 pound beef biscuit, ",
-            "(2) 3 cups of water, ",
-            "(3) 1 onion, chopped, ",
-            "(4) 1/2 cup soy sauce, ",
-            "(5) 1/4 cup brown sugar."
-        ]
+        "recipe_img": "https://img.freepik.com/premium-photo/fried-chicken-with-french-fries-nuggets-meal_1339-54738.jpg?w=740",
+        "name": "Fried chicken with French fries and nuggets meal",
+        "method_of_cooking": "1. Fry prawns in oil until cooked. 2. In a separate pan, mix coconut milk, ginger paste, garlic paste, red chili powder, turmeric powder, and salt. 3. Add prawns to the pan and simmer for 5 minutes. Serve hot with rice.",
+        "ratings": 4.3,
+        "likes": 1600
     }
 ]
